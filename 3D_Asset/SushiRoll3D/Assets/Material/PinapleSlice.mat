@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PinapleSlice
+  m_Shader: {fileID: 4800000, guid: f5b3bc1dbb820d24f98a9c810bf70768, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - TCP2_SPECULAR
+  - USE_CLIP_PLANE
+  m_InvalidKeywords:
+  - TCP2_SPEC
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 165b1d8f00189a54d9aefe59c715c73d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MatCapTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _BumpScale: 1
+      _Cutoff: 0.5
+      _CuttingOn: 0
+      _DetailNormalMapScale: 1
+      _DstBlend: 0
+      _GlossMapScale: 1
+      _Glossiness: 0
+      _GlossyReflections: 1
+      _Metallic: 0
+      _Mode: 0
+      _OcclusionStrength: 1
+      _Parallax: 0.02
+      _RampSmoothing: 1
+      _RampThreshold: 0.18
+      _RimMaxVert: 1.56
+      _RimMinVert: 0.54
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 1
+      _SpecularSmoothness: 0.18
+      _SrcBlend: 1
+      _UVSec: 0
+      _UseClipPlan: 1
+      _UseMatCap: 0
+      _UseNormalMap: 0
+      _UseRim: 0
+      _UseSpecular: 1
+      _ZWrite: 1
+      __dummy__: 0
+    m_Colors:
+      _ClipPlane: {r: -0.011848901, g: -0.99929494, b: -0.03562689, a: 2.4633718}
+      _Color: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+      _CutPlane: {r: 0, g: 0, b: 0, a: 0}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _HColor: {r: 0.7372549, g: 0.7372549, b: 0.7372549, a: 1}
+      _MatCapColor: {r: 1, g: 1, b: 1, a: 1}
+      _RimColor: {r: 0.8, g: 0.8, b: 0.8, a: 0.5}
+      _RimDirVert: {r: -55.65, g: -127.57, b: -24.13, a: -0.96}
+      _SColor: {r: 0.23529412, g: 0.22352941, b: 0.03137255, a: 1}
+      _SpecularColor: {r: 0.09433961, g: 0.093004614, b: 0.093004614, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0

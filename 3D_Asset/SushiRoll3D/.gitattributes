@@ -1,0 +1,5 @@
+# Preserve copied asset bytes and Unity GUID metadata across Git checkouts.
+# This only affects this art pack; it does not install or configure Git LFS.
+Assets/** -text
+*.json -text
+*.png binary

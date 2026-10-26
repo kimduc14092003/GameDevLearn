@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NoodlesLiquid
+  m_Shader: {fileID: 4800000, guid: 8ef1278eb445da2408d8e39e920c8c87, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - TCP2_RIM
+  - TCP2_SPEC
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _BlendOp: 0
+      _BumpScale: 1
+      _CameraFadingEnabled: 0
+      _CameraFarFadeDistance: 2
+      _CameraNearFadeDistance: 1
+      _Cull: 2
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 1
+      _DistortionBlend: 0.5
+      _DistortionEnabled: 0
+      _DistortionStrength: 1
+      _DistortionStrengthScaled: 0
+      _DstBlend: 0
+      _EmissionEnabled: 0
+      _FillAmount: -2.4
+      _FlipbookMode: 0
+      _GlossMapScale: 1
+      _Glossiness: 0.5
+      _GlossyReflections: 1
+      _LightingEnabled: 1
+      _Metallic: 0
+      _Mode: 0
+      _OcclusionStrength: 1
+      _Parallax: 0.02
+      _RampSmooth: 0.01
+      _RampThreshold: 1
+      _Rim: 0
+      _RimMax: 1
+      _RimMin: 0.965
+      _RimPower: 0
+      _Shininess: 1.992
+      _SmoothnessTextureChannel: 0
+      _SoftParticlesEnabled: 0
+      _SoftParticlesFarFadeDistance: 1
+      _SoftParticlesNearFadeDistance: 0
+      _SpecSmooth: 0.05
+      _SpecularHighlights: 1
+      _SrcBlend: 1
+      _UVSec: 0
+      _WobbleX: 0
+      _WobbleZ: 0
+      _ZWrite: 1
+    m_Colors:
+      _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+      _Color: {r: 0.9339623, g: 0.65167826, b: 0.383277, a: 1}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _FoamColor: {r: 1, g: 0.9088912, b: 0.7783019, a: 1}
+      _HColor: {r: 1, g: 0.7176471, b: 0.4666667, a: 1}
+      _RimColor: {r: 1, g: 0.31116822, b: 0, a: 1}
+      _RimDir: {r: 0, g: 0, b: 1, a: 0}
+      _SColor: {r: 0.6698113, g: 0.5472653, b: 0.36966002, a: 1}
+      _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
+      _SpecColor: {r: 0.03773582, g: 0.03773582, b: 0.03773582, a: 1}
+      _Tint: {r: 1, g: 0.64885443, b: 0.08962262, a: 1}
+      _TopColor: {r: 1, g: 0.7972459, b: 0.504717, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WaterRippleShader
+  m_Shader: {fileID: 4800000, guid: 1ffaf3524aa47734ca3502f93504307f, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 6ab469173b2ff7c4c9a12708d658779e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: ddd91495f145b23448792984d5537a10, type: 3}
+        m_Scale: {x: 0.1, y: 0.1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _ColorEmission: 1
+      _Distance1: 0
+      _Distance2: 0
+      _Distance3: 0
+      _Distance4: 0
+      _Distance5: 0
+      _Distance6: 0
+      _Distance7: 0
+      _Distance8: 0
+      _FillAmount: 1.09
+      _Frequency: 2.32
+      _Glossiness: 0.145
+      _Metallic: 0
+      _Scale: 0.01
+      _Speed: 0.71
+      _WaveAmplitude1: 0
+      _WaveAmplitude2: 0
+      _WaveAmplitude3: 0
+      _WaveAmplitude4: 0
+      _WaveAmplitude5: 0
+      _WaveAmplitude6: 0
+      _WaveAmplitude7: 0
+      _WaveAmplitude8: 0
+      _xImpact1: 0
+      _xImpact2: -1.13
+      _xImpact3: -1.8104802
+      _xImpact4: -0.75598824
+      _xImpact5: -0.75378317
+      _xImpact6: 1.69
+      _xImpact7: 1.6659075
+      _xImpact8: -1.13
+      _zImpact1: 0
+      _zImpact2: -0.83
+      _zImpact3: 0.68942285
+      _zImpact4: 2.6682215
+      _zImpact5: 2.6331062
+      _zImpact6: 1.5
+      _zImpact7: 1.4738259
+      _zImpact8: 1.26
+    m_Colors:
+      _Color: {r: 0.5254902, g: 0.59607846, b: 0.09803922, a: 0.8}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0

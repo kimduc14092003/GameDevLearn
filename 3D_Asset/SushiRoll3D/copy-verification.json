@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "verifiedFiles": 4590,
+  "verifiedBytes": 155611252,
+  "method": "Every source file matched its SHA-256 plan; every destination file was re-read and matched SHA-256 and size.",
+  "selection": {
+    "folder_meta": 42,
+    "clean_prefab": 141,
+    "meta": 2274,
+    "material": 644,
+    "mesh": 1074,
+    "texture": 382,
+    "shader_dummy": 33
+  },
+  "noGitCommitOrPush": true
+}
